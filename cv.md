@@ -18,3 +18,16 @@ Hello I'm 18 years old student from [IITU](https://iitu.edu.kz). I'm into progra
 + C++
 + Python
 + Git (GitHub)
+
+## Example of code:
+
+```JS
+function isPrime(number){
+    for (let i = 2; i <= Math.sqrt(number) + 1; i++){
+        if(number % i == 0) reutrn false;
+    }
+    return number > 1;
+}
+
+isPrime(13);
+```
