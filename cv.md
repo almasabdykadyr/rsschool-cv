@@ -1,0 +1,2 @@
+# Almas Abdykadyr
+## Starter programmer
