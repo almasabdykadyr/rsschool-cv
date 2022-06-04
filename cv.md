@@ -38,3 +38,9 @@ isPrime(13);
     * [__International IT University__](https:/iitu.edu.kz) 25' (incomplete)
 + Courses:
     * [__RS Schools «JavaScript/Front-end»__](https://rs.school/js/) (incomplete)
+
+## Languages:
+
++ Kazakh: _Native_
++ Russian: _Native_
++ English: _B1 (Intermediate)_ 
