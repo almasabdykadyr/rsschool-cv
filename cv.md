@@ -9,3 +9,12 @@ Hello I'm 18 years old student from [IITU](https://iitu.edu.kz). I'm into progra
 + Email: ___almasabdikadyr@gmail.com___
 + Telegram: ___@a_abdykadyr___
 + Discord: ___turrrrrbo#7736___
+
+## Skills:
+
++ Html
++ Css
++ Js
++ C++
++ Python
++ Git (GitHub)
