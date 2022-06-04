@@ -1,0 +1,1 @@
+https://almasabdykadyr.github.io/rsschool-cv/cv
