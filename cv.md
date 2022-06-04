@@ -31,3 +31,10 @@ function isPrime(number){
 
 isPrime(13);
 ```
+
+## Education:
+
++ Higher education:
+    * [__International IT University__](https:/iitu.edu.kz) 25' (incomplete)
++ Courses:
+    * [__RS Schools «JavaScript/Front-end»__](https://rs.school/js/) (incomplete)
