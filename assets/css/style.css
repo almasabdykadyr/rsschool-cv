@@ -46,4 +46,13 @@ body {
     text-decoration: none;
     text-transform: capitalize;
     color: black;
+    font-weight: 300;
+}
+
+.list-link:hover {
+    color: rgb(112, 112, 112);
+}
+
+.list-link:active {
+    color: #fff;
 }
