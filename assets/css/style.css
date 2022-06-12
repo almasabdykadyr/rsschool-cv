@@ -15,6 +15,7 @@ body {
     justify-content: space-between;
     min-height: 100vh;
 
+
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
     font-weight: 400;
@@ -24,4 +25,25 @@ body {
 .container {
     max-width: 1440px;
     margin: 0 auto;
+}
+
+.header {
+    background-color: lightblue;
+}
+
+.nav-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+
+    list-style: none;
+}
+
+.list-link {
+    padding: 0 20px 0 0;
+    line-height: 50px;
+
+    text-decoration: none;
+    text-transform: capitalize;
+    color: black;
 }
