@@ -1,0 +1,13 @@
+@import url(normalize.css);
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    display: flex;
+}
