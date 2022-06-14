@@ -97,6 +97,33 @@ main {
 }
 
 .section-title {
+  color: rgb(143, 192, 192);
   font-size: 20px;
   letter-spacing: 2px;
+}
+
+.code {
+  width: 300px;
+}
+
+footer {
+  background: lightblue;
+  padding: 20px;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.github-link {
+  text-decoration: none;
+  color: #000;
+  font-weight: 300;
+}
+
+.rss {
+  width: 120px;
+  height: 45px;
 }
